@@ -1,8 +1,54 @@
-# React + Vite
+# Zentry Landing Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is an educational clone of the landing page of [Zentry](https://zentry.com/). Built with Vite, React, and Tailwind CSS, the project focuses on replicating the elegance, animations, and responsive design of the original landing page.
 
-Currently, two official plugins are available:
+## Disclaimer 📣
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+All rights to the original design, content, and intellectual property belong to [Zentry](https://zentry.com/). This project was created solely for educational purposes and is not intended for commercial use.
+
+## Features
+
+- **Responsive Design:** Optimized for all devices.
+- **Sleek Animations:** Replicates the smooth transitions and interactive effects of the original.
+- **Modern UI:** Clean layout and aesthetics inspired by Zentry.
+- **Built with Vite & React:** Fast development and efficient rendering.
+
+## Technologies Used
+
+- **Vite:** Modern build tool for rapid development.
+- **React:** Library for building user interfaces.
+- **Tailwind CSS:** Utility-first CSS framework for fast styling.
+
+## Installation
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/DDiegoLopez/zentry-landing-clone.git
+   cd zentry-landing-clone
+
+2. **Install Dependencies:**
+
+   ```bash
+   npm install
+   or
+   yarn install
+
+  3. **Start the Development Server:**
+
+     ```bash
+     npm run dev
+     or
+     yarn dev
+
+  5. **Open the App:**
+
+Navigate to http://localhost:3000 (or the specified port) in your browser to view the project.
+
+## Credits 
+
+Special thanks to **JS Mastery** for their outstanding tutorial, which provided the inspiration and guidance for this project.
+
+## License 
+
+This project is licensed under the Do What You Want To Public License.
