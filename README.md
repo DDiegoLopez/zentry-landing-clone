@@ -45,10 +45,6 @@ All rights to the original design, content, and intellectual property belong to 
 
 Navigate to http://localhost:3000 (or the specified port) in your browser to view the project.
 
-## Credits 
-
-Special thanks to **JS Mastery** for their outstanding tutorial, which provided the inspiration and guidance for this project.
-
 ## License 
 
 This project is licensed under the Do What You Want To Public License.
